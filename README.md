@@ -1,7 +1,7 @@
 # Iris-Classification-LDA-Aproach-And-Implementing-LDA-From-Scratch
 Classifying iris dataset with LDA algorithm which is built in library in python and implementing LDA from scratch
 
-> ####Our project is divided into two phases
+> #### Our project is divided into two phases
 >> 1) Reading dataset and splitting it into train and test and then classifying it with built-in LDA Algorithm
 >> 2) Implementing LDA algorithm from scratch and then classifying the dataset with our LDA then comparing our accuracy with the accuracy of built-in LDA.
 
